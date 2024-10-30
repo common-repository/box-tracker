@@ -1,0 +1,14 @@
+#toplevel_page_box-tracker-online img {
+	padding: 2px 0 0 0!important;
+    opacity: .8!important;
+}
+
+#b0xT_setting_logo_div > img {
+	max-width: 100px;
+}
+
+#b0xT_setting_form select, 
+#b0xT_setting_form input[type=text],
+#b0xT_setting_form input[type=password] {
+	min-width: 11.5rem;
+}
